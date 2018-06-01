@@ -1,5 +1,5 @@
 {
-	"name": "stefanfroemken/sf-dfkumue-bundle",
+	"name": "stefanfroemken/dfkumue-bundle",
 	"type": "symfony-bundle",
 	"description": "Access DomainFactory customer menue by API.",
 	"keywords": ["df", "domainfactory", "customer", "menue", "api"],
