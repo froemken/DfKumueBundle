@@ -1,0 +1,24 @@
+{
+	"name": "stefanfroemken/sf-dfkumue-bundle",
+	"type": "symfony-bundle",
+	"description": "Access DomainFactory customer menue by API.",
+	"keywords": ["df", "domainfactory", "customer", "menue", "api"],
+	"homepage": "http://www.typo3lexikon.de",
+	"license": "GPL-2.0-or-later",
+	"authors": [
+		{
+			"name": "Stefan Froemken",
+			"email": "sfroemken@jweiland.net",
+			"role": "Lead Developer"
+		}
+	],
+	"require": {
+		"php": ">=7.2",
+		"symfony/framework-bundle": "^4.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Sf\\DfKumueBundle\\": ""
+		}
+	}
+}
